@@ -34,6 +34,7 @@ m.directive('uiTimepicker', ['uiTimepickerConfig', '$parse', '$window', function
             var config = angular.copy(uiTimepickerConfig);
             var asMoment = config.asMoment || false;
             delete config.asMoment;
+            element = $(element);
 
             ngModel.$render = function() {
                 var date = ngModel.$modelValue;
