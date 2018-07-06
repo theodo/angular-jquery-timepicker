@@ -1,7 +1,7 @@
 {
-  "name": "angular-jquery-timepicker",
-  "version": "0.13.1",
-  "description": "An AngularJS directive for jQuery Timepicker",
+  "name": "angular-jquery-timepicker-that-works",
+  "version": "0.13.2",
+  "description": "An AngularJS directive for jQuery Timepicker with a small fix",
   "main": "./src/timepickerdirective.js",
   "devDependencies": {
     "grunt": "~0.4.2",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Recras/angular-jquery-timepicker.git"
+    "url": "git@github.com:theodo/angular-jquery-timepicker-that-works.git"
   },
-  "author": "https://github.com/Recras/angular-jquery-timepicker/graphs/contributors",
+  "author": "https://github.com/theodo/angular-jquery-timepicker-that-works/graphs/contributors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Recras/angular-jquery-timepicker/issues"
+    "url": "https://github.com/theodo/angular-jquery-timepicker-that-works/issues"
   },
-  "homepage": "https://github.com/Recras/angular-jquery-timepicker"
+  "homepage": "https://github.com/theodo/angular-jquery-timepicker-that-works"
 }

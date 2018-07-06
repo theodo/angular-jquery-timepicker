@@ -1,6 +1,9 @@
 angular-jquery-timepicker [![Build Status](https://travis-ci.org/Recras/angular-jquery-timepicker.png?branch=master)](https://travis-ci.org/Recras/angular-jquery-timepicker)
 =====================
 
+Forked from [Recreas repo](https://github.com/Recras/angular-jquery-timepicker) to fix a jquery issue
+
+
 An AngularJS directive for [jquery-timepicker](https://github.com/jonthornton/jquery-timepicker)
 
 [See a demo here](http://recras.github.io/angular-jquery-timepicker/)
