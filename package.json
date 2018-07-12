@@ -1,6 +1,6 @@
 {
   "name": "angular-jquery-timepicker-that-works",
-  "version": "0.13.2",
+  "version": "0.13.3",
   "description": "An AngularJS directive for jQuery Timepicker with a small fix",
   "main": "./src/timepickerdirective.js",
   "devDependencies": {
