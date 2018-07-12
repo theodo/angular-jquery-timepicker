@@ -93,6 +93,11 @@ m.directive('uiTimepicker', ['uiTimepickerConfig', '$parse', '$window', function
                 return userInput() && ngModel.$modelValue === null;
             };
 
+            element.on('change', function() {
+                var $element = angular.element(element);
+                element.triggerHandler('input');
+            });
+
             element.on('$destroy', function() {
                 element.timepicker('remove');
             });
